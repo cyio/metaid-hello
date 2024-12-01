@@ -57,7 +57,7 @@
     "rollup-plugin-polyfill-node": "^0.11.0",
     "sass": "^1.43.4",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
-    "vite": "^4.0.3",
+    "vite": "^4.0.5",
     "vite-plugin-env-compatible": "^1.1.1",
     "vite-plugin-html": "3.2.0",
     "vite-plugin-pwa": "^0.14.0",
